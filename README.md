@@ -16,4 +16,4 @@ Chain motion or independent Random Walk motion in a confined workspace.
 
 *Published article:*
 
-Chowdhury, Indravash & Singh, Ravinder & Kluse, Christopher & Mayyas, Mohammad. (2021). The Effect of Obstacle Design Architectures on Randomly Ranging AGVs in a Shared Workspace. Advances in Science, Technology and Engineering Systems Journal. 6. 335-347. 10.25046/aj060538. 
+Chowdhury, Indravash & **Singh, Ravinder** & Kluse, Christopher & Mayyas, Mohammad. (2021). The Effect of Obstacle Design Architectures on Randomly Ranging AGVs in a Shared Workspace. Advances in Science, Technology and Engineering Systems Journal. 6. 335-347. 10.25046/aj060538. 
